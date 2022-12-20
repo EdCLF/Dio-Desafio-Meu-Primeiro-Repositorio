@@ -1,0 +1,12 @@
+Link para baixar o Git ( https://git-scm.com )
+
+
+git add (para preparar os arquivos para o commit)
+
+git commit (para mandar os arquivos para o staged)
+
+git push (para mandar para o github)
+
+git clone (para clonar um repositorio)
+
+git config list (para listar as configurações feitas no git)

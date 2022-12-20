@@ -1,0 +1,13 @@
+<p> - paragrafo
+<br> - quebra de linha
+<a> - hiperlink
+<h1> - titulo(tamanho vai de acordo com h1 até h6)
+<img> - adicionar imagem
+<strong> - negrito
+<strike> - texto riscado
+<un> - underline
+<em> - italico
+<div> - divisão de uma parte da pagina
+<head> - local onde ficam os comandos que rodam por "trás" da pagina
+<body> - local onde ficam os comando da pagina (textos/imagens...)
+<link> - pode ser utilizado para conectar a um arquivo de Css, para facilitar a formatação
